@@ -9,13 +9,13 @@ const video = {
   comments: [
     {
       id: 1,
-      user: "duanebot",
-      comment: "first!",
+      user: "NurDin",
+      comment: " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio, sequi? Eligendi, dicta vel explicabo iusto ut unde !",
     },
     {
       id: 2,
-      user: "gaeron",
-      comment: "What a great tutorial!",
+      user: "Hajo",
+      comment: " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio, sequi? Eligendi, dicta vel explicabo iusto ut unde !",
     },
   ],
 };
